@@ -17,8 +17,3 @@ Create domain users and security groups and assign users to appropriate groups.
 - Verified users and groups in ADUC
 - Confirmed group membership
 
-## Screenshots
-- [Users created in AD](screenshots/L04-01_Users.png)
-- [Security groups created](screenshots/L04-02_Groups.png)
-- [Group membership verified](screenshots/L04-03_GroupMembers.png)
-- [View all screenshots](screenshots/)
